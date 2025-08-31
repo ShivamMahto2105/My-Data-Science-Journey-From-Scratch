@@ -63,7 +63,7 @@ I’ll follow a structured weekly plan, covering **Core Foundations → ML → D
 
 | Month     | Focused              | Status     |
 | --------- | -------------------- | ---------- |
-| Month 01: | Core Foundations     | ⏳ Pending |
+| Month 01: | Core Foundations     | 🚀 In Progress |
 | Month 02: | Data Handling/Vis    | ⏳ Pending |
 | Month 03: | ML Foundations       | ⏳ Pending |
 | Month 04: | Advanced ML          | ⏳ Pending |
