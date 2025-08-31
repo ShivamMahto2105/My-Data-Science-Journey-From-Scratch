@@ -1,4 +1,4 @@
-# 🚀 10-Month Data Scientist Roadmap (20 hrs/week)
+# 🚀 10-Month Data Scientist Roadmap
 
 This repo documents my **10-month journey** to becoming a **Data Scientist**.  
 I’ll follow a structured weekly plan, covering **Core Foundations → ML → DL → NLP → Data Engineering → MLOps**, with **projects every month**.
