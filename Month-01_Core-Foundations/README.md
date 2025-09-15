@@ -1,45 +1,43 @@
-# 📘 Month 01 – Core Foundations
-
-**Focus:** DBMS, SQL, Python, Pandas, Statistics  
+# 📘 Month 01 – Core Foundations  
+**Focus:** DBMS, SQL (Basic + Advanced), Statistics  
 
 ---
-### 🔹 DBMS  
+
+### ♦ DBMS  
 - Understand the basics of databases and their importance  
 - Learn ER models, relationships, and different types of keys  
 - Study schema design and normalization (1NF, 2NF, 3NF)  
 
 ---
 
-### 🔹 SQL  
-- Write queries using SELECT, WHERE, ORDER BY  
-- Practice JOINs to combine data from multiple tables  
-- Use GROUP BY and HAVING for aggregation  
-- Learn advanced topics like subqueries and window functions  
+### ♦ SQL (Basics)  
+- Write queries using `SELECT`, `WHERE`, `ORDER BY`  
+- Practice `JOINS` to combine data from multiple tables  
+- Use `GROUP BY` and `HAVING` for aggregation  
 - Regular practice with problem sets to strengthen skills  
 
 ---
 
-### 🔹 Python  
-- Learn variables, data types, and operators  
-- Work with loops and conditional statements  
-- Create and use functions for modular code  
-- Build small practice scripts for problem-solving  
+### ♦ SQL (Advanced)  
+- Learn advanced topics like **subqueries** and **window functions**  
+- Explore `CASE WHEN`, `RANK()`, `DENSE_RANK()`, and `ROW_NUMBER()`  
+- Optimize queries using indexing and execution plans  
+- Work on complex SQL challenges from platforms like StrataScratch or LeetCode  
 
 ---
 
-### 🔹 Data Handling & Statistics  
-- Use NumPy for arrays, indexing, and mathematical operations  
-- Work with Pandas for DataFrames, filtering, and transformations  
-- Learn basic statistics: mean, median, variance, and standard deviation
- 
+### ♦ Statistics  
+- Learn basic statistics: **mean, median, variance, standard deviation**  
+- Understand probability distributions (normal, binomial, Poisson)  
+- Study correlation and covariance  
+- Introduction to hypothesis testing (t-test, chi-square test, p-value)  
+
 ---
-## 📊 Progress
+
+### 📊 Progress  
 - [ ] DBMS Basics (ER model, keys, schema, normalization)  
 - [ ] SQL Basics (SELECT, WHERE, JOIN, GROUP BY)  
-- [ ] Python Essentials (variables, loops, functions)  
-- [ ] Advanced SQL (Subqueries, Window Functions)  
-- [ ] Pandas & NumPy Basics  
-- [ ] Statistics Basics  
-- [ ] SQL Practice (StrataScratch)  
-
----
+- [ ] Advanced SQL (Subqueries, Window Functions, Query Optimization)  
+- [ ] Statistics Basics (mean, variance, std dev, probability)  
+- [ ] Statistics Advanced (distributions, correlation, hypothesis testing)  
+- [ ] SQL Practice (StrataScratch, LeetCode, HackerRank)  
