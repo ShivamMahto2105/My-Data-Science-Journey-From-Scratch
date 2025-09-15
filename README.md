@@ -9,13 +9,14 @@ I’ll follow a structured weekly plan, covering **Core Foundations → ML → D
 
 ### 📘 Month 1 – Core Foundations
 
-- DBMS, SQL basics, Python essentials
-- Advanced SQL, Pandas, NumPy, Stats basics
+- SQL (Basics + Advanced)
+- Statistics (Descriptive, Probability, Hypothesis Testing)
 
-### 📊 Month 2 – Data Handling & Visualization
+### 📊 Month 2 – Python + ETL
 
-- Matplotlib, Seaborn, Data Cleaning
-- ETL basics, Power BI/Tableau
+- Python Essentials (Data structures, functions, OOP basics)
+- NumPy & Pandas
+- ETL Basics (Extract, Transform, Load concepts & practice)
 
 ### 🤖 Month 3 – ML Foundations
 
@@ -61,17 +62,16 @@ I’ll follow a structured weekly plan, covering **Core Foundations → ML → D
 
 ## 📊 Progress Tracker
 
-| Month     | Focused              | Status     |
-| --------- | -------------------- | ---------- |
-| Month 01: | Core Foundations     | 🚀 In Progress |
-| Month 02: | Data Handling/Vis    | ⏳ Pending |
-| Month 03: | ML Foundations       | ⏳ Pending |
-| Month 04: | Advanced ML          | ⏳ Pending |
-| Month 05: | Adv ML + Time Series | ⏳ Pending |
-| Month 06: | Clustering + NN      | ⏳ Pending |
-| Month 07: | DL Adv + NLP Basics  | ⏳ Pending |
-| Month 08: | NLP Advanced         | ⏳ Pending |
-| Month 09: | Data Eng + Cloud     | ⏳ Pending |
-| Month 10: | MLOps                | ⏳ Pending |
-
----
+| Month     | Focused              | Status         |
+| --------- | -------------------- | -------------- |
+| Month 01: | SQL + Statistics     | 🚀 In Progress |
+| Month 02: | Python + ETL         | ⏳ Pending     |
+| Month 03: | ML Foundations       | ⏳ Pending     |
+| Month 04: | Advanced ML          | ⏳ Pending     |
+| Month 05: | Adv ML + Time Series | ⏳ Pending     |
+| Month 06: | Clustering + NN      | ⏳ Pending     |
+| Month 07: | DL Adv + NLP Basics  | ⏳ Pending     |
+| Month 08: | NLP Advanced         | ⏳ Pending     |
+| Month 09: | Data Eng + Cloud     | ⏳ Pending     |
+| Month 10: | MLOps                | ⏳ Pending     |
+****
