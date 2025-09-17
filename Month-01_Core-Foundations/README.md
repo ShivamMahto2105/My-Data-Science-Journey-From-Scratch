@@ -1,43 +1,52 @@
 # 📘 Month 01 – Core Foundations  
-**Focus:** DBMS, SQL (Basic + Advanced), Statistics  
+**Focus:** SQL (Fundamentals → Advanced), Statistics (Basics → Advanced)  
 
 ---
 
-### ♦ DBMS  
-- Understand the basics of databases and their importance  
-- Learn ER models, relationships, and different types of keys  
-- Study schema design and normalization (1NF, 2NF, 3NF)  
-
----
-
-### ♦ SQL (Basics)  
+## 🗂️ SQL Fundamentals  
 - Write queries using `SELECT`, `WHERE`, `ORDER BY`  
-- Practice `JOINS` to combine data from multiple tables  
-- Use `GROUP BY` and `HAVING` for aggregation  
-- Regular practice with problem sets to strengthen skills  
+- Practice inserting data using `INSERT`  
+- Filter, sort, and retrieve specific records  
+- Understand data types and basic table structures  
 
 ---
 
-### ♦ SQL (Advanced)  
-- Learn advanced topics like **subqueries** and **window functions**  
-- Explore `CASE WHEN`, `RANK()`, `DENSE_RANK()`, and `ROW_NUMBER()`  
-- Optimize queries using indexing and execution plans  
-- Work on complex SQL challenges from platforms like StrataScratch or LeetCode  
+## 🔄 SQL Intermediate  
+- Perform table joins: `INNER`, `LEFT`, `RIGHT`, `FULL OUTER`  
+- Use set operations: `UNION`, `INTERSECT`, `EXCEPT`  
+- Aggregate data with `GROUP BY`, `HAVING`, and built-in functions  
+- Apply `CASE WHEN` for conditional logic  
 
 ---
 
-### ♦ Statistics  
-- Learn basic statistics: **mean, median, variance, standard deviation**  
-- Understand probability distributions (normal, binomial, Poisson)  
-- Study correlation and covariance  
-- Introduction to hypothesis testing (t-test, chi-square test, p-value)  
+## 🧠 SQL Advanced  
+- Master subqueries (correlated and uncorrelated)  
+- Use window functions: `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`  
+- Explore query optimization: indexing, execution plans  
+- Work through complex SQL challenges (StrataScratch, LeetCode, etc.)  
 
 ---
 
-### 📊 Progress  
-- [ ] DBMS Basics (ER model, keys, schema, normalization)  
-- [ ] SQL Basics (SELECT, WHERE, JOIN, GROUP BY)  
-- [ ] Advanced SQL (Subqueries, Window Functions, Query Optimization)  
-- [ ] Statistics Basics (mean, variance, std dev, probability)  
-- [ ] Statistics Advanced (distributions, correlation, hypothesis testing)  
-- [ ] SQL Practice (StrataScratch, LeetCode, HackerRank)  
+## 📊 Statistics Basics  
+- Learn measures of central tendency: **mean, median, mode**  
+- Understand dispersion: **variance, standard deviation, range**  
+- Study basic probability concepts and simple distributions  
+- Introduction to correlation and covariance  
+
+---
+
+## 📈 Statistics Advanced  
+- Explore probability distributions: **normal, binomial, Poisson**  
+- Learn hypothesis testing: **t-test, chi-square test, p-value**  
+- Understand regression basics and statistical inference  
+- Study more complex correlation methods and their applications  
+
+---
+
+## ✅ Progress Tracker  
+- [✅] **SQL Fundamentals** (SELECT, WHERE, INSERT, ORDER BY)  
+- [✅] **SQL Intermediate** (JOIN, UNION, INTERSECT, GROUP BY, CASE)  
+- [ ] **SQL Advanced** (Subqueries, Window Functions, Query Optimization)  
+- [ ] **Statistics Basics** (mean, median, variance, std dev, probability)  
+- [ ] **Statistics Advanced** (distributions, hypothesis testing, regression)  
+- [ ] **SQL Practice** (StrataScratch, LeetCode, HackerRank)  
