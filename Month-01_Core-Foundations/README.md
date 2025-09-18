@@ -1,52 +1,41 @@
-# 📘 Month 01 – Core Foundations  
-**Focus:** SQL (Fundamentals → Advanced), Statistics (Basics → Advanced)  
+# 📘 Month 1 – SQL (Full Month)
 
----
+## 🗂️ Topics
 
-## 🗂️ SQL Fundamentals  
-- Write queries using `SELECT`, `WHERE`, `ORDER BY`  
-- Practice inserting data using `INSERT`  
-- Filter, sort, and retrieve specific records  
-- Understand data types and basic table structures  
+### 1. SQL Basics
+- SELECT statements
+- Filtering with WHERE
+- Aggregation with GROUP BY
 
----
+### 2. Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
 
-## 🔄 SQL Intermediate  
-- Perform table joins: `INNER`, `LEFT`, `RIGHT`, `FULL OUTER`  
-- Use set operations: `UNION`, `INTERSECT`, `EXCEPT`  
-- Aggregate data with `GROUP BY`, `HAVING`, and built-in functions  
-- Apply `CASE WHEN` for conditional logic  
+### 3. Advanced SQL
+- Window Functions (ROW_NUMBER, RANK, DENSE_RANK, etc.)
+- Common Table Expressions (CTEs)
+- Subqueries (correlated and uncorrelated)
 
----
+### 4. Query Optimization
+- Indexes
+- Using EXPLAIN to analyze queries
 
-## 🧠 SQL Advanced  
-- Master subqueries (correlated and uncorrelated)  
-- Use window functions: `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`  
-- Explore query optimization: indexing, execution plans  
-- Work through complex SQL challenges (StrataScratch, LeetCode, etc.)  
+## 🧩 Project
+**Sales/Ecommerce Analysis using SQL**  
+- Analyze sales data to find trends  
+- Compute total revenue by product/category  
+- Identify top customers  
+- Use joins to combine multiple tables (orders, products, customers)  
+- Apply window functions to rank products/customers
 
----
+## ✅ Progress Tracker
 
-## 📊 Statistics Basics  
-- Learn measures of central tendency: **mean, median, mode**  
-- Understand dispersion: **variance, standard deviation, range**  
-- Study basic probability concepts and simple distributions  
-- Introduction to correlation and covariance  
-
----
-
-## 📈 Statistics Advanced  
-- Explore probability distributions: **normal, binomial, Poisson**  
-- Learn hypothesis testing: **t-test, chi-square test, p-value**  
-- Understand regression basics and statistical inference  
-- Study more complex correlation methods and their applications  
-
----
-
-## ✅ Progress Tracker  
-- [✅] **SQL Fundamentals** (SELECT, WHERE, INSERT, ORDER BY)  
-- [✅] **SQL Intermediate** (JOIN, UNION, INTERSECT, GROUP BY, CASE)  
-- [ ] **SQL Advanced** (Subqueries, Window Functions, Query Optimization)  
-- [ ] **Statistics Basics** (mean, median, variance, std dev, probability)  
-- [ ] **Statistics Advanced** (distributions, hypothesis testing, regression)  
-- [ ] **SQL Practice** (StrataScratch, LeetCode, HackerRank)  
+| Topic                    | Status |
+|---------------------------|--------|
+| SQL Basics (SELECT, WHERE, GROUP BY) | ⬜ |
+| Joins (INNER, LEFT, RIGHT, FULL)    | ⬜ |
+| Advanced SQL (Window Functions, CTEs, Subqueries) | ⬜ |
+| Query Optimization (Indexes, EXPLAIN) | ⬜ |
+| Project: Sales/Ecommerce Analysis    | ⬜ |
