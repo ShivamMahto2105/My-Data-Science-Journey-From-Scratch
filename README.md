@@ -108,17 +108,19 @@
 
 # 📊 Progress Tracker
 
+# 📊 10-Month Roadmap Progress Tracker
+
 | Month | Focused Topics | Status |
 |-------|----------------|--------|
-| Month 01 | SQL + Statistics | 🚀 In Progress |
-| Month 02 | Python + ETL | ⏳ Pending |
-| Month 03 | ML Foundations | ⏳ Pending |
-| Month 04 | Advanced ML | ⏳ Pending |
-| Month 05 | Adv ML + Time Series | ⏳ Pending |
-| Month 06 | Clustering + Neural Networks | ⏳ Pending |
-| Month 07 | Deep Learning Advanced + NLP Basics | ⏳ Pending |
-| Month 08 | NLP Advanced | ⏳ Pending |
-| Month 09 | Data Engineering + Cloud | ⏳ Pending |
-| Month 10 | MLOps | ⏳ Pending |
+| Month 01 | SQL | 🚀 In Progress |
+| Month 02 | Excel + BI Tools | ⏳ Pending |
+| Month 03 | Statistics & Business Analytics | ⏳ Pending |
+| Month 04 | Python for Data Science | ⏳ Pending |
+| Month 05 | ML Foundations | ⏳ Pending |
+| Month 06 | Advanced ML | ⏳ Pending |
+| Month 07 | Time Series Analysis | ⏳ Pending |
+| Month 08 | Clustering + Dimensionality Reduction | ⏳ Pending |
+| Month 09 | Neural Networks Basics | ⏳ Pending |
+| Month 10 | NLP Basics + Advanced | ⏳ Pending |
 
 ---
