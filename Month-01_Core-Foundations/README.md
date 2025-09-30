@@ -32,10 +32,15 @@
 
 ## ✅ Progress Tracker
 
-| Topic                    | Status |
-|---------------------------|--------|
-| SQL Basics (SELECT, WHERE, GROUP BY) | ⬜ |
-| Joins (INNER, LEFT, RIGHT, FULL)    | ⬜ |
-| Advanced SQL (Window Functions, CTEs, Subqueries) | ⬜ |
-| Query Optimization (Indexes, EXPLAIN) | ⬜ |
-| Project: Sales/Ecommerce Analysis    | ⬜ |
+| Topic                                 | Status |
+| ------------------------------------- | ------ |
+| SQL Basics (SELECT, WHERE, GROUP BY)  | ✅      |
+| Joins (INNER, LEFT, RIGHT, FULL)      | ✅      |
+| NULL Functions                        | ⬜      |
+| Date & Time SQL Functions             | ⬜      |
+| CASE Statements                       | ⬜      |
+| Window Functions                      | ⬜      |
+| Advanced SQL (CTEs, Subqueries)       | ⬜      |
+| Query Optimization (Indexes, EXPLAIN) | ⬜      |
+| Project: Sales/Ecommerce Analysis     | ⬜      |
+
