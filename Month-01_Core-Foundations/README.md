@@ -36,8 +36,8 @@
 | ------------------------------------- | ------ |
 | SQL Basics (SELECT, WHERE, GROUP BY)  | ✅      |
 | Joins (INNER, LEFT, RIGHT, FULL)      | ✅      |
-| NULL Functions                        | ⬜      |
-| Date & Time SQL Functions             | ⬜      |
+| NULL Functions                        | ✅      |
+| Date & Time SQL Functions             | ✅      |
 | CASE Statements                       | ⬜      |
 | Window Functions                      | ⬜      |
 | Advanced SQL (CTEs, Subqueries)       | ⬜      |
