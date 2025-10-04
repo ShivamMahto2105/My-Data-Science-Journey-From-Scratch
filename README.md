@@ -1,6 +1,6 @@
 # 🚀 10-Month Data Analyst → Data Scientist Roadmap
 
-## 📘 Month 1 – SQL (Full Month)
+## 📘 Month 1 – SQL 
 **Topics:**
 - SQL Basics → `SELECT`, `WHERE`, `GROUP BY`
 - Joins → `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`
