@@ -123,4 +123,3 @@
 | Month 09 | Neural Networks Basics | ⏳ Pending |
 | Month 10 | NLP Basics + Advanced | ⏳ Pending |
 
----
