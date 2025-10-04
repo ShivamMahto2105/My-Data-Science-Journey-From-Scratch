@@ -13,12 +13,18 @@
 - RIGHT JOIN
 - FULL JOIN
 
-### 3. Advanced SQL
+### 3. Set Operators
+- Union
+- Union All
+- Except 
+- Intersect
+
+### 4. Advanced SQL
 - Window Functions (ROW_NUMBER, RANK, DENSE_RANK, etc.)
 - Common Table Expressions (CTEs)
 - Subqueries (correlated and uncorrelated)
 
-### 4. Query Optimization
+### 5. Query Optimization
 - Indexes
 - Using EXPLAIN to analyze queries
 
