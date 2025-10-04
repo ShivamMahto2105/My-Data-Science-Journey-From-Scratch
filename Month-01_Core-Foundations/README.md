@@ -38,8 +38,8 @@
 | Joins (INNER, LEFT, RIGHT, FULL)      | ✅      |
 | NULL Functions                        | ✅      |
 | Date & Time SQL Functions             | ✅      |
-| CASE Statements                       | ⬜      |
-| Window Functions                      | ⬜      |
+| CASE Statements                       | ✅      |
+| Window Functions                      | ✅      |
 | Advanced SQL (CTEs, Subqueries)       | ⬜      |
 | Query Optimization (Indexes, EXPLAIN) | ⬜      |
 | Project: Sales/Ecommerce Analysis     | ⬜      |
