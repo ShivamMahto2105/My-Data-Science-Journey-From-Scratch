@@ -47,6 +47,6 @@
 | CASE Statements                       | ✅      |
 | Window Functions                      | ✅      |
 | Advanced SQL (CTEs, Subqueries)       | ✅      |
-| Query Optimization (Indexes, EXPLAIN) | ⬜      |
+| Query Optimization (Indexes, EXPLAIN) | ✅      |
 | Project: Sales/Ecommerce Analysis     | ⬜      |
 
